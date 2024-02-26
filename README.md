@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yusuf Ziyrek
-=
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yusuf Ziyrek
+
 Computer Engineering Std. | Software Developer
--
+
 
 Hello, I am Yusuf Ziyrek. I am a computer engineering student at Biruni University. My goal is to be a successful software developer. I develop myself on Java, Spring, web architectures and databases.
 
