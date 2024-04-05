@@ -7,7 +7,7 @@ Hello, I am Yusuf Ziyrek. I am a computer engineering student at Biruni Universi
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [yusufziyrek1@gmail.com](mailto:yusufziyrek1@gmail.com)
-* 🚀  I'm currently working on [RentACar - RESTful API](http://github.com/yusufziyrek/RentACar-RestAPI)
+* 🚀  I'm currently working on [blogApp - RESTful API](https://github.com/yusufziyrek/blogApp-RestAPI)
 * 🧠  I'm learning Java and Spring Boot
 
 ### Skills
