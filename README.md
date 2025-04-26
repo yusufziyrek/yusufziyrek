@@ -3,12 +3,12 @@
 Computer Engineering Std. | Software Developer 
 
 
-Hello, I am Yusuf Ziyrek. I am a computer engineering student at Biruni University. My goal is to be a successful software developer. I develop myself on Java, Spring, web architectures and databases.
+Hello, I am Yusuf Ziyrek. I am a computer engineering student at Biruni University. My goal is to be a successful software developer. I develop myself on Java, Spring, Go, web architectures and databases.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [yusufziyrek1@gmail.com](mailto:yusufziyrek1@gmail.com)
 * 🚀  I'm currently working on [e-commerce-microservice](https://github.com/yusufziyrek/e-commerce-microservice)
-* 🧠  I'm learning Java and Spring Boot
+* 🧠  I'm learning Go, Java and Spring Boot
 
 ### Skills
 
