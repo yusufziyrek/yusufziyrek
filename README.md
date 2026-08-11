@@ -7,7 +7,7 @@ Hello, I am Yusuf Ziyrek. I am a computer engineering student at Biruni Universi
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [yusufziyrek1@gmail.com](mailto:yusufziyrek1@gmail.com)
-* 🚀  I'm currently working on [z-cast](https://ziyreksoftware.com/z-cast/)
+* 🚀  I'm currently working on [Z-Stock](https://ziyreksoftware.com/z-stock/)
 * 🧠  I'm learning Go, C#, Java and Spring Boot
 
 ### Skills
